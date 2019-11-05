@@ -5,7 +5,7 @@ function divideBy2(num) {
     return num / 2;
 }
 
-
+const divideBy2 = num => num/2
 
 
 

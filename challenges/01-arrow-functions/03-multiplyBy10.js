@@ -5,14 +5,7 @@ function multiplyBy10(num) {
     return num * 10;
 }
 
-
-
-
-
-
-
-
-
+multiplyBy10 = num => num*10
 
 //Do not edit
 module.exports = multiplyBy10;
