@@ -3,14 +3,16 @@
 // you should use the empty () syntax of _ syntax.
 
 
-function noParam() {
+/*function noParam() {
 
+}*/
+
+noParam = () => {
+ 
+   let a = "John"
+   let b = "Peter"
+   return a.concat(b);
 }
-
-
-
-
-
 
 
 //Do not edit
