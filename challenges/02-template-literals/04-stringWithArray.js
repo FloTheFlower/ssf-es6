@@ -2,10 +2,9 @@
 //Make use of interpolation to include the 2nd item from the array input in place of ____. Ex.  The second item in the array is orange.
 
 const stringWithArray = (array) => {
-    let array = ['Raphael', " " , 'Michelangelo', 'Donatello'];
-    return `The second item in this array is ${array[1]}`
+   // array = ['Raphael', 'Leonardo', 'Michelangelo', 'Donatello'];
+    return `The second item in this array is ${array[1]}.`
 };
 
 //Do not edit
-
 module.exports = stringWithArray;
